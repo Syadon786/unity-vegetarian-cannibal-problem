@@ -1,0 +1,13 @@
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\bin\Debug\netcoreapp3.1\CannibalAndVegetarian.exe
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\bin\Debug\netcoreapp3.1\CannibalAndVegetarian.deps.json
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\bin\Debug\netcoreapp3.1\CannibalAndVegetarian.runtimeconfig.json
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\bin\Debug\netcoreapp3.1\CannibalAndVegetarian.runtimeconfig.dev.json
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\bin\Debug\netcoreapp3.1\CannibalAndVegetarian.dll
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\bin\Debug\netcoreapp3.1\CannibalAndVegetarian.pdb
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.csprojAssemblyReference.cache
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.csproj.CoreCompileInputs.cache
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.AssemblyInfoInputs.cache
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.AssemblyInfo.cs
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.dll
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.pdb
+E:\Programozás\CannibalAndVegetarian\CannibalAndVegetarian\obj\Debug\netcoreapp3.1\CannibalAndVegetarian.genruntimeconfig.cache
